@@ -1,0 +1,1 @@
+This project was developed during underGrad studies. The project was built on top of JAVA Swing, GUI widget toolkit. Basically this project was quite comphrensive in terms of the funtionalities it offers. For instance,
